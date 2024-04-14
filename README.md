@@ -1,2 +1,2 @@
-# beecrowd-c-problem
-This repository is dedicated to storing solutions and discussions related to C programming problems from the BeeCrowd platform. It serves as a collaborative space for developers to share their approaches, learn from others, and improve their coding skills in the C language.
+Hello! I'm Mahmudul Hasan Shovon , 
+a passionate Computer Science & Engineering student at United International University. My journey involves mastering the intricacies of C language, where I explore the art of coding and problem-solving. Eager to contribute my skills, I am dedicated to enhancing my knowledge and capabilities. My academic pursuits span algorithms, data structures, and software development. I'm excited to connect with like-minded individuals, students, and professionals, fostering collaboration and continuous learning. Join me as we embark on this exciting tech adventure, turning ideas into tangible solutions and making a difference in the digital world.
