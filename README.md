@@ -1,4 +1,4 @@
-<h1># Beecrowd Problems - C Solutions<h1>
+# Beecrowd Problems - C Solutions
 
 Welcome to my Beecrowd Problems repository! Here, you'll find my solutions to various programming challenges from Beecrowd, all implemented in the C programming language.
 
