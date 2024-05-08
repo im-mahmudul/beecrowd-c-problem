@@ -1,2 +1,20 @@
-Hello! I'm Mahmudul Hasan Shovon , 
-a passionate Computer Science & Engineering student at United International University. My journey involves mastering the intricacies of C language, where I explore the art of coding and problem-solving. Eager to contribute my skills, I am dedicated to enhancing my knowledge and capabilities. My academic pursuits span algorithms, data structures, and software development. I'm excited to connect with like-minded individuals, students, and professionals, fostering collaboration and continuous learning. Join me as we embark on this exciting tech adventure, turning ideas into tangible solutions and making a difference in the digital world.
+<h1># Beecrowd Problems - C Solutions<h1>
+
+Welcome to my Beecrowd Problems repository! Here, you'll find my solutions to various programming challenges from Beecrowd, all implemented in the C programming language.
+
+## Introduction
+
+This repository contains my solutions to problems from Beecrowd, a platform for practicing programming skills. Each problem's solution is written in C language.
+
+## Usage
+
+To use the solutions:
+
+1. Clone the Repository.
+2. Navigate to the problem directory.
+3. Compile the C file.
+4. Run the executable.
+
+## Contributing
+
+Feel free to contribute your solutions! Just fork the repository, add your solution, and submit a pull request.
